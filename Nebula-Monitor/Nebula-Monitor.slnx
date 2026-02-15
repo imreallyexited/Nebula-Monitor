@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nebula-Monitor.vcxproj" Id="a6b85149-9826-474f-acde-2a0e09e12e5e" />
+</Solution>
