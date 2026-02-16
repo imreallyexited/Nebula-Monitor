@@ -1,4 +1,4 @@
-# 🌌Nebula-Tidy🌌
+# 🌌 Nebula-Tidy 🌌
 
 **Nebula-Tidy** is a basic-standalone desktop file organizer. It organizes your desktop files into folders automatically.
 
