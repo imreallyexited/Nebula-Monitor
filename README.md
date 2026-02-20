@@ -11,7 +11,7 @@
 
 ## Installation & Usage
 
-1.  Download `Nebula-Tidy.exe` from the [Releases](link-to-releases) section.
+1.  Download `Nebula-Tidy.exe` from the [Releases](https://github.com/imreallyexited/Nebula-Tidy-Desktop-Cleaner/releases) section.
 2.  Type a folder name (e.g., "MyFiles").
 3.  Select the file types you want to move.
 4.  Click **MOVE FILES**.
